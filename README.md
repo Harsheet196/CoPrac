@@ -5,6 +5,8 @@ This Repo is created for the students of RCOEM to help  with their practicals, A
 
 Branch and semester wise sorting for the material is provided.
 
+Please Help us by creating pull request and uploading the material that would be helpful for the juniors, your fellow-mates and upcoming batches.
+
 
 IMP : Disclaimer-
 This Repo does not encourage copying of any study material here provided, and created just to help students in their assignments.
